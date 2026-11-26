@@ -35,6 +35,6 @@ Save **15+ hours/week** on web audits, data scraping, and shipping landing pages
 - **Landing Page Shipper**: Designs, builds in React + TypeScript + Tailwind CSS, visually verifies desktop & mobile, and prepares Vercel/Netlify deployment.
 - Includes `GUIA_INICIO.md` and real input/output examples + error handling.
 
-👉 **Get the full pack here**: [https://zerotask.gumroad.com/l/byyosr](https://zerotask.gumroad.com/l/byyosr)
+👉 **Get the full pack here**: [https://zerotask.gumroad.com/l/byyosr](https://zerotask.gumroad.com/l/byyosr) (**€14**)
 
-> **Launch Offer**: Use code **`FIRST10`** at checkout for **50% off** (limited to the first **10** buyers).
+> **Launch Offer**: Use code **`FIRST10`** at checkout to get it for **€9** (**36% off**, limited to the first **10** buyers).
